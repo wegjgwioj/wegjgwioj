@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wegjgwioj.github.io/">Blog</a> ·
+  <a href="[Blog](https://www.cnblogs.com/HeJIW)">Blog</a> ·
   建设ing...
 </p>
 
